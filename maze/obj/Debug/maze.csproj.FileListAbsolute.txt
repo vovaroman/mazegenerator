@@ -1,0 +1,7 @@
+C:\Users\Vov\source\repos\maze\maze\bin\Debug\maze.exe.config
+C:\Users\Vov\source\repos\maze\maze\bin\Debug\maze.exe
+C:\Users\Vov\source\repos\maze\maze\bin\Debug\maze.pdb
+C:\Users\Vov\source\repos\maze\maze\obj\Debug\maze.csprojAssemblyReference.cache
+C:\Users\Vov\source\repos\maze\maze\obj\Debug\maze.csproj.CoreCompileInputs.cache
+C:\Users\Vov\source\repos\maze\maze\obj\Debug\maze.exe
+C:\Users\Vov\source\repos\maze\maze\obj\Debug\maze.pdb
